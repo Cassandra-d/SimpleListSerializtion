@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListSerialization", "ListSerialization\ListSerialization.csproj", "{4156168C-3A14-49D8-BA2E-D4DA943E6A8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{44B02717-33BA-4678-B921-506D3097A258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4156168C-3A14-49D8-BA2E-D4DA943E6A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4156168C-3A14-49D8-BA2E-D4DA943E6A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4156168C-3A14-49D8-BA2E-D4DA943E6A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4156168C-3A14-49D8-BA2E-D4DA943E6A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B02717-33BA-4678-B921-506D3097A258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B02717-33BA-4678-B921-506D3097A258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B02717-33BA-4678-B921-506D3097A258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B02717-33BA-4678-B921-506D3097A258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75E300D5-1E54-419A-92B2-39843DA379D5}
+	EndGlobalSection
+EndGlobal
